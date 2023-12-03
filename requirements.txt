@@ -1,4 +1,4 @@
-colorama @ file:///C:/ci_311/colorama_1676422310965/work
+colorama
 numpy==1.26.2
 pandas==2.1.3
 pyaes==1.6.1
